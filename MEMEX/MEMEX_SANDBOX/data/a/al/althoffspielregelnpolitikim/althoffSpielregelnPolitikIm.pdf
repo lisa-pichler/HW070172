@@ -1,0 +1,8 @@
+<html><head><title>Shibboleth Authentication Request</title></head><body onload="EZproxyCheckBack()"><form name="EZproxyForm" method="POST" action="https://weblogin.univie.ac.at/idp/profile/SAML2/POST/SSO"><input type="hidden" name="RelayState" value="ezp.2aHR0cHM6Ly91c2VhcmNoLnVuaXZpZS5hYy5hdC9wcmltby1leHBsb3JlL2Z1bGxkaXNwbGF5P2RvY2lkPVVXSV9hbG1hMjEyOTUzMjg5MjAwMDMzMzImY29udGV4dD1MJnZpZD1VV0kmbGFuZz1kZV9ERSZzZWFyY2hfc2NvcGU9VVdJX1VCQmVzdGFuZCZhZGFwdG9yPUxvY2FsJTIwU2VhcmNoJTIwRW5naW5lJmlzRnJicj10cnVlJnRhYj1kZWZhdWx0X3RhYiZxdWVyeT1hbnksY29udGFpbnMsYWx0aG9mZiZzb3J0Ynk9ZGF0ZSZmYWNldD1mcmJyZ3JvdXBpZCxpbmNsdWRlLDYyNTAwMDI5MCZvZmZzZXQ9MA--">
+<input type="hidden" name="SAMLRequest" value="PD94bWwgdmVyc2lvbj0iMS4wIj8+CjxzYW1scDpBdXRoblJlcXVlc3QgeG1sbnM6c2FtbHA9InVybjpvYXNpczpuYW1lczp0YzpTQU1MOjIuMDpwcm90b2NvbCIgRGVzdGluYXRpb249Imh0dHBzOi8vd2VibG9naW4udW5pdmllLmFjLmF0L2lkcC9wcm9maWxlL1NBTUwyL1BPU1QvU1NPIiBJRD0iXzE2MDI1MDk1MjQyMzciIElzc3VlSW5zdGFudD0iMjAyMC0xMC0xMlQxMzozMjowNFoiIFZlcnNpb249IjIuMCI+PHNhbWw6SXNzdWVyIHhtbG5zOnNhbWw9InVybjpvYXNpczpuYW1lczp0YzpTQU1MOjIuMDphc3NlcnRpb24iPmh0dHA6Ly91YWNjZXNzLnVuaXZpZS5hYy5hdC9zYW1sMjwvc2FtbDpJc3N1ZXI+PHNhbWxwOk5hbWVJRFBvbGljeSBBbGxvd0NyZWF0ZT0iMSIvPjwvc2FtbHA6QXV0aG5SZXF1ZXN0Pgo=">
+If your browser does not continue automatically, click <input type="submit" value="here">
+</form><form name="EZproxyTrack"><input type="hidden" name="back" value="1"><script language="JavaScript">
+<!--
+function EZproxyCheckBack() {  var goForward = (document.EZproxyTrack.back.value==1);  document.EZproxyTrack.back.value=2;  document.EZproxyTrack.back.defaultValue=2;  if (goForward) { document.EZproxyForm.submit(); }}
+-->
+</script></body></html>
